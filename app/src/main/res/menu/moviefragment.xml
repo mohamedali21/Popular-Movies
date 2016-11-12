@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".UI.FragmentList">
+    <item android:id="@+id/action_popular" android:title="@string/action_sortBypopular"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_top_rated"
+        android:title="@string/action_sortByTopRated"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_favotite"
+        android:title="@string/action_favorite"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

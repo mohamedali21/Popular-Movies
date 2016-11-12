@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="action_sortBypopular" translatable="false">Sort by popular</string>
+    <string name="action_sortByTopRated" translatable="false">Sort by Top Rated</string>
+    <string name="action_refresh" translatable="false">refresh</string>
+    <string name="action_favorite" translatable="false">Favorite</string>
+</resources>

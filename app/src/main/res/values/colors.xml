@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e60000</color>
+    <color name="colorPrimaryDark">#b30000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ligtSkyBlue">#fff3f3f3</color>
+    <color name="black">#000000</color>
+    <color name="theme_primary">#FF4081</color>
+    <color name="darkGray">#595959</color>
+    <color name="skyBlue">#00e6e6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="semiGray">#d1e0e0</color>
+</resources>
